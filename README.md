@@ -18,6 +18,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gireesha44/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/gireesha44/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/gireesha44/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -32,6 +33,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gireesha44/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/gireesha44/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/gireesha44/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
