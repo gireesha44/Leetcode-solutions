@@ -17,6 +17,7 @@
 | [0229-majority-element-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gireesha44/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gireesha44/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [0056-merge-intervals](https://github.com/gireesha44/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gireesha44/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
 | ------- |
