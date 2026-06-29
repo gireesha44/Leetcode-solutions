@@ -18,6 +18,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gireesha44/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gireesha44/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Binary Search
 |  |
@@ -75,6 +76,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gireesha44/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [1021-remove-outermost-parentheses](https://github.com/gireesha44/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gireesha44/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
 | ------- |
