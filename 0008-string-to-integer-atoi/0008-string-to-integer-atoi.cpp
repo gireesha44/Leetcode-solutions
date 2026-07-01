@@ -17,8 +17,9 @@ public:
         int i = j;
         while(i<n && s[i]>='0' && s[i]<='9'){
             ans = ans*10+(s[i]-'0');
-            if(!neg && ans>INT_MAX)return INT_MAX;
             if(neg && -ans<INT_MIN)return INT_MIN;
+            if(!neg && ans>INT_MAX)return INT_MAX;
+            
             i++;
         }
         return neg?-ans:ans;
