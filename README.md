@@ -13,6 +13,7 @@
 | [0074-search-a-2d-matrix](https://github.com/gireesha44/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/gireesha44/Leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/gireesha44/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/gireesha44/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/gireesha44/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/gireesha44/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/gireesha44/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/gireesha44/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gireesha44/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gireesha44/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/gireesha44/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
