@@ -18,6 +18,7 @@
 | [0162-find-peak-element](https://github.com/gireesha44/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/gireesha44/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1109-corporate-flight-bookings](https://github.com/gireesha44/Leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gireesha44/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -47,6 +48,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/gireesha44/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1109-corporate-flight-bookings](https://github.com/gireesha44/Leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 ## Two Pointers
@@ -78,6 +80,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gireesha44/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/gireesha44/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## String
 |  |
 | ------- |
@@ -156,4 +159,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gireesha44/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/gireesha44/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
