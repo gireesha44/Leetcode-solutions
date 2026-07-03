@@ -40,6 +40,7 @@
 | [0064-minimum-path-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/gireesha44/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/gireesha44/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/gireesha44/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -63,6 +64,7 @@
 | [0042-trapping-rain-water](https://github.com/gireesha44/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/gireesha44/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/gireesha44/Leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/gireesha44/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/gireesha44/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gireesha44/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/gireesha44/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/gireesha44/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/gireesha44/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/gireesha44/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
