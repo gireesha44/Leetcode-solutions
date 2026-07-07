@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gireesha44/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/gireesha44/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [1021-remove-outermost-parentheses](https://github.com/gireesha44/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gireesha44/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -186,5 +187,10 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/gireesha44/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gireesha44/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/gireesha44/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
