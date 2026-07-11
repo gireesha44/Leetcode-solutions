@@ -2,25 +2,20 @@ class Solution {
 public:
     int trap(vector<int>& arr) {
         int n = arr.size();
-        vector<int>left(n,0);
-        vector<int>right(n,0);
-        int ans =0;
-        left[0] = 0;
-        int maxi = 0;
-        for(int i=1;i<n;i++){
-           maxi = max(maxi,arr[i-1]);
-           left[i] = maxi;
+        int lmax=0,rmax=0,total=0;
+        int l=0,r=n-1;
+        while(l<r){
+            if(arr[l]<=arr[r]){
+                if(lmax>arr[l])total+=(lmax-arr[l]);
+                else lmax=max(lmax,arr[l]);
+                l++;
+            }
+            else{
+                if(rmax>arr[r])total+=(rmax-arr[r]);
+                else rmax=max(rmax,arr[r]);
+                r--;
+            }
         }
-        maxi =0;
-        right[n-1] =0;
-        for(int i=n-2;i>=0;i--){
-           maxi = max(maxi,arr[i+1]);
-           right[i] = maxi;
-        }
-        for(int i=0;i<n;i++){
-            int x = min({right[i],left[i]})-arr[i];
-            if(x>0)ans+=x;
-        }
-        return ans;
+        return total;
     }
 };
