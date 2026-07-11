@@ -21,6 +21,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gireesha44/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/gireesha44/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1109-corporate-flight-bookings](https://github.com/gireesha44/Leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 | [1288-remove-covered-intervals](https://github.com/gireesha44/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gireesha44/Leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -79,12 +80,14 @@
 | [0155-min-stack](https://github.com/gireesha44/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/gireesha44/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gireesha44/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/gireesha44/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/gireesha44/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gireesha44/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gireesha44/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/gireesha44/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -143,6 +146,7 @@
 | [0229-majority-element-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gireesha44/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/gireesha44/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/gireesha44/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gireesha44/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/gireesha44/Leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
