@@ -7,7 +7,7 @@ public:
         for(int i=0;i<n;i++){
             if(arr[i]>0)st.push(arr[i]);
             else{
-                while(!st.empty() && st.top()<-arr[i]){
+                while(!st.empty() && st.top()<abs(arr[i])){
                     st.pop();
                 }
                 if(st.empty())ans.push_back(arr[i]);
