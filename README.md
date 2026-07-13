@@ -227,4 +227,8 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/gireesha44/Leetcode-solutions/tree/master/0735-asteroid-collision) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/gireesha44/Leetcode-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
