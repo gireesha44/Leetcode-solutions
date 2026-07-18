@@ -36,6 +36,7 @@
 | [1652-defuse-the-bomb](https://github.com/gireesha44/Leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gireesha44/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gireesha44/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/gireesha44/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gireesha44/Leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -193,6 +194,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/gireesha44/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/gireesha44/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gireesha44/Leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Trie
 |  |
@@ -258,4 +260,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/gireesha44/Leetcode-solutions/tree/master/1051-height-checker) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
