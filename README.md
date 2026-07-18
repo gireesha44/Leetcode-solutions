@@ -264,4 +264,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/gireesha44/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
