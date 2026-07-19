@@ -48,6 +48,7 @@
 | [0162-find-peak-element](https://github.com/gireesha44/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0633-sum-of-square-numbers](https://github.com/gireesha44/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gireesha44/Leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Dynamic Programming
 |  |
@@ -86,6 +87,7 @@
 | [0088-merge-sorted-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/gireesha44/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/gireesha44/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/gireesha44/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/gireesha44/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/gireesha44/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0633-sum-of-square-numbers](https://github.com/gireesha44/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/gireesha44/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gireesha44/Leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
