@@ -24,7 +24,6 @@ public:
             }
             else break;
         }
-        cout<<overflow;
         if(sign && neg){
             if(overflow)ans = INT_MIN;
             else ans=-ans;
