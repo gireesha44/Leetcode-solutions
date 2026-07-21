@@ -26,33 +26,19 @@ public:
                 temp1=temp1->next;
                 n1--;
             }
-            while(temp1!=NULL && temp2!=NULL){
-                if(temp1==temp2)return temp1;
-                temp1=temp1->next;
-                temp2=temp2->next;
-            }
-            return NULL;
         }
         else if(n1<n2){
             while(n1!=n2){
                 temp2=temp2->next;
                 n2--;
             }
-            while(temp1!=NULL && temp2!=NULL){
+        }
+        while(temp1!=NULL && temp2!=NULL){
                 if(temp1==temp2)return temp1;
                 temp1=temp1->next;
                 temp2=temp2->next;
             }
-            return NULL;
-        }
-        else{
-            while(temp1!=NULL && temp2!=NULL){
-                if(temp1==temp2)return temp1;
-                temp1=temp1->next;
-                temp2=temp2->next;
-            }
-            return NULL;
-        }
         return NULL;
+        
     }
 };
