@@ -31,19 +31,22 @@ public:
         else temp->next = head2;
         return dummy->next;
     }
+    ListNode* findMiddle(ListNode* head){
+        ListNode* slow = head,*fast = head,*prev=NULL;
+        while(fast && fast->next){
+            prev= slow;
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        if(prev!=NULL)prev->next = NULL;// break the link 
+        return slow;
+    }
     ListNode* sortList(ListNode* head) {
         if(head==NULL || head->next==NULL)return head;
-        ListNode* slow=head;
-        ListNode* fast=head->next;
-        while(fast && fast->next){
-            slow=slow->next;
-            fast=fast->next->next;
-        }
-        ListNode* mid = slow->next;
-        slow->next = NULL;
-        ListNode* left = sortList(head);
-        ListNode* right = sortList(mid);
-
+        ListNode* mid = findMiddle(head);
+        ListNode* left = head,*right = mid;
+        left = sortList(head);
+        right = sortList(mid);
         return mergeTwoLists(left,right);
     }
 };
