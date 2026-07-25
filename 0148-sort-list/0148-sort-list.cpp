@@ -44,7 +44,7 @@ public:
     ListNode* sortList(ListNode* head) {
         if(head==NULL || head->next==NULL)return head;
         ListNode* mid = findMiddle(head);
-        ListNode* left = head,*right = mid->next;
+        ListNode* left = NULL,*right = NULL;
         left = sortList(head);
         right = sortList(mid);
         return mergeTwoLists(left,right);
