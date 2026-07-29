@@ -32,6 +32,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/gireesha44/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/gireesha44/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/gireesha44/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1046-last-stone-weight](https://github.com/gireesha44/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/gireesha44/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1109-corporate-flight-bookings](https://github.com/gireesha44/Leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 | [1288-remove-covered-intervals](https://github.com/gireesha44/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -238,6 +239,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/gireesha44/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1046-last-stone-weight](https://github.com/gireesha44/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gireesha44/Leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
