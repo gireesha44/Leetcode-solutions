@@ -240,6 +240,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/gireesha44/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/gireesha44/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/gireesha44/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gireesha44/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/gireesha44/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/gireesha44/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -342,6 +343,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/gireesha44/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/gireesha44/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/gireesha44/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/gireesha44/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/gireesha44/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
@@ -360,4 +362,5 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/gireesha44/Leetcode-solutions/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/gireesha44/Leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
