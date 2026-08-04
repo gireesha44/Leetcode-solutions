@@ -52,6 +52,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gireesha44/Leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/gireesha44/Leetcode-solutions/tree/master/2537-count-the-number-of-good-subarrays) |
+| [3731-find-missing-elements](https://github.com/gireesha44/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gireesha44/Leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gireesha44/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/gireesha44/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/gireesha44/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/gireesha44/Leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/gireesha44/Leetcode-solutions/tree/master/2537-count-the-number-of-good-subarrays) |
+| [3731-find-missing-elements](https://github.com/gireesha44/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
