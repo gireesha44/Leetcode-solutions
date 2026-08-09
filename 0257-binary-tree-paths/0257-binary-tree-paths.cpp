@@ -18,6 +18,7 @@ public:
         if(root->left==NULL && root->right==NULL){
             str+=to_string(root->val);
             ans.push_back(str);
+            return ;
         }    
         if(root->left!=NULL)count(root->left,str+to_string(root->val)+"->",ans);
         if(root->left==NULL)count(root->left,str+to_string(root->val),ans);
