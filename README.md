@@ -383,6 +383,7 @@
 | [0226-invert-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/gireesha44/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/gireesha44/Leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -402,6 +403,7 @@
 | [0226-invert-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/gireesha44/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/gireesha44/Leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
