@@ -72,6 +72,7 @@
 | [0042-trapping-rain-water](https://github.com/gireesha44/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/gireesha44/Leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/gireesha44/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/gireesha44/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -380,6 +381,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/gireesha44/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gireesha44/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/gireesha44/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -391,6 +393,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/gireesha44/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gireesha44/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/gireesha44/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -402,6 +405,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/gireesha44/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gireesha44/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/gireesha44/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -415,4 +419,8 @@
 | [0112-path-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
