@@ -24,7 +24,7 @@ public:
                 auto it = q.front();
                 q.pop();
                 TreeNode* x = it.first;
-                long long ind = it.second - start;
+                long long ind = it.second-start;
                 if(x->left!=NULL){
                     q.push({x->left,2*ind+1});
                 }
