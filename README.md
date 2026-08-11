@@ -206,6 +206,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/gireesha44/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/gireesha44/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gireesha44/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/gireesha44/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/gireesha44/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -232,6 +233,7 @@
 | [0242-valid-anagram](https://github.com/gireesha44/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/gireesha44/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/gireesha44/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gireesha44/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/gireesha44/Leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -391,6 +393,7 @@
 | [0226-invert-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/gireesha44/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/gireesha44/Leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -404,6 +407,7 @@
 | [0226-invert-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/gireesha44/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -418,6 +422,7 @@
 | [0226-invert-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/gireesha44/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/gireesha44/Leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -429,6 +434,7 @@
 | [0112-path-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
