@@ -54,6 +54,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gireesha44/Leetcode-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/gireesha44/Leetcode-solutions/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gireesha44/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/gireesha44/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -240,6 +241,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/gireesha44/Leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/gireesha44/Leetcode-solutions/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gireesha44/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/gireesha44/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -290,6 +292,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gireesha44/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1652-defuse-the-bomb](https://github.com/gireesha44/Leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/gireesha44/Leetcode-solutions/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gireesha44/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Union-Find
 |  |
 | ------- |
