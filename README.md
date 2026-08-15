@@ -57,6 +57,7 @@
 | [2537-count-the-number-of-good-subarrays](https://github.com/gireesha44/Leetcode-solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gireesha44/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gireesha44/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/gireesha44/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -391,6 +392,7 @@
 | ------- |
 | [0078-subsets](https://github.com/gireesha44/Leetcode-solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/gireesha44/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gireesha44/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Tree
 |  |
 | ------- |
