@@ -17,8 +17,8 @@ public:
         int maxi =-1;
         if(nums[0]==nums[n-1])return -1;
         if(mp[nums[0]]==1 && mp[nums[n-1]]==1)maxi = max(nums[0],nums[n-1]);
-        if(mp[nums[0]]==1 && mp[nums[n-1]]>1)maxi= nums[0];
-        if(mp[nums[n-1]]==1 && mp[nums[0]]>1)maxi= nums[n-1];
+        else if(mp[nums[0]]==1 )maxi= nums[0];
+        else if(mp[nums[n-1]]==1 )maxi= nums[n-1];
         return maxi;
     }
 };
