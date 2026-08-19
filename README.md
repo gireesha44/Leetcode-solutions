@@ -145,6 +145,7 @@
 | [0503-next-greater-element-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/gireesha44/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gireesha44/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0897-increasing-order-search-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/gireesha44/Leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/gireesha44/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/gireesha44/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -427,6 +428,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/gireesha44/Leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -447,6 +449,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gireesha44/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/gireesha44/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -472,6 +475,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/gireesha44/Leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -501,6 +505,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/gireesha44/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 ## Quickselect
 |  |
 | ------- |
