@@ -39,6 +39,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/gireesha44/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/gireesha44/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gireesha44/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/gireesha44/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/gireesha44/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/gireesha44/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -88,6 +89,7 @@
 | [0392-is-subsequence](https://github.com/gireesha44/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gireesha44/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0746-min-cost-climbing-stairs](https://github.com/gireesha44/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/gireesha44/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |
