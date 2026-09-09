@@ -301,6 +301,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gireesha44/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gireesha44/Leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/gireesha44/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gireesha44/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Trie
 |  |
