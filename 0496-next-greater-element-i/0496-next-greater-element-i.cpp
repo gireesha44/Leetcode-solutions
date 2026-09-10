@@ -1,9 +1,9 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        int n=nums2.size();
-        vector<int>ans(10001,-1);
+        int n = nums2.size();
         stack<int>st;
+        vector<int>ans(100000,-1);
         for(int i=n-1;i>=0;i--){
             while(!st.empty() && st.top()<=nums2[i]){
                 st.pop();
@@ -12,7 +12,7 @@ public:
             st.push(nums2[i]);
         }
         for(int i=0;i<nums1.size();i++){
-            nums1[i]= ans[nums1[i]];
+            nums1[i] = ans[nums1[i]];
         }
         return nums1;
     }
