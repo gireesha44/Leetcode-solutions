@@ -15,6 +15,7 @@
 | [0040-combination-sum-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/gireesha44/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/gireesha44/Leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/gireesha44/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/gireesha44/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -237,6 +238,7 @@
 | [0015-3sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gireesha44/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/gireesha44/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/gireesha44/Leetcode-solutions/tree/master/0148-sort-list) |
@@ -438,6 +440,7 @@
 | [0039-combination-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/gireesha44/Leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/gireesha44/Leetcode-solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/gireesha44/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
