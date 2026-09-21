@@ -44,6 +44,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/gireesha44/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/gireesha44/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/gireesha44/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0973-k-closest-points-to-origin](https://github.com/gireesha44/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1002-find-common-characters](https://github.com/gireesha44/Leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/gireesha44/Leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -190,6 +191,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gireesha44/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/gireesha44/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -250,6 +252,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/gireesha44/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/gireesha44/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gireesha44/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/gireesha44/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/gireesha44/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/gireesha44/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -310,6 +313,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/gireesha44/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/gireesha44/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/gireesha44/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/gireesha44/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/gireesha44/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gireesha44/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -334,6 +338,7 @@
 | [0239-sliding-window-maximum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/gireesha44/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/gireesha44/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0973-k-closest-points-to-origin](https://github.com/gireesha44/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/gireesha44/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gireesha44/Leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -560,8 +565,14 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gireesha44/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/gireesha44/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/gireesha44/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/gireesha44/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/gireesha44/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
