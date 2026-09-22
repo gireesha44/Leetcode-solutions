@@ -50,6 +50,7 @@
 | [1046-last-stone-weight](https://github.com/gireesha44/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/gireesha44/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1109-corporate-flight-bookings](https://github.com/gireesha44/Leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gireesha44/Leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1288-remove-covered-intervals](https://github.com/gireesha44/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gireesha44/Leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -113,6 +114,7 @@
 | [0455-assign-cookies](https://github.com/gireesha44/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/gireesha44/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gireesha44/Leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gireesha44/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/gireesha44/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gireesha44/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -314,6 +316,7 @@
 | [0633-sum-of-square-numbers](https://github.com/gireesha44/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/gireesha44/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/gireesha44/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gireesha44/Leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1903-largest-odd-number-in-string](https://github.com/gireesha44/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gireesha44/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gireesha44/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
