@@ -16,6 +16,7 @@
 | [0042-trapping-rain-water](https://github.com/gireesha44/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/gireesha44/Leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0054-spiral-matrix](https://github.com/gireesha44/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/gireesha44/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/gireesha44/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -200,6 +201,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gireesha44/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/gireesha44/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -388,6 +390,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gireesha44/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/gireesha44/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gireesha44/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gireesha44/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
