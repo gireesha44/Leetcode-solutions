@@ -2,22 +2,21 @@ class Solution {
 public:
     string reverseParentheses(string s) {
         int n = s.size();
-        vector<string>st;
-        st.push_back("");
+        stack<int>st;
         for(int i=0;i<n;i++){
             if(s[i]=='('){
-                st.push_back("");
+                st.push(i);
             }
             else if(s[i]==')'){
-                string top_str = st.back();
-                st.pop_back();
-                reverse(top_str.begin(),top_str.end());
-                st.back()+=top_str;
-            }
-            else{
-                st.back().push_back(s[i]);
-            }
+                int start = st.top();
+                st.pop();
+                reverse(s.begin()+start+1,s.begin()+i);
+            }    
         }
-        return st.back();
+        string ans = "";
+        for(char c:s){
+            if(c!='(' && c!=')')ans+=c;
+        }
+        return ans;
     }
 };
