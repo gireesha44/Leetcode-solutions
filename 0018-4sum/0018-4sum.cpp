@@ -13,7 +13,6 @@ public:
                     long long sum = (long long)arr[i]+arr[j]+arr[left]+arr[right];
                     if(sum==target){
                         vector<int>x={arr[i],arr[j],arr[left],arr[right]};
-                        sort(x.begin(),x.end());
                         st.insert(x);
                         left++;
                         right--;
