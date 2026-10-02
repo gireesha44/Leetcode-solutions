@@ -1,19 +1,21 @@
 class Solution {
 public:
-    vector<string>res;
-    void generatePar(int oc,int cc,int n,string brackets){
+    void gen(int oc,int cc,string s,vector<string>&ans,int n){
         if(oc+cc==n){
-            res.push_back(brackets);
+            ans.push_back(s);
+            return ;
         }
         if(oc<n/2){
-            generatePar(oc+1,cc,n,brackets+'(');
+            gen(oc+1,cc,s+'(',ans,n);
         }
         if(oc>cc){
-            generatePar(oc,cc+1,n,brackets+')');
+            gen(oc,cc+1,s+')',ans,n);
         }
     }
     vector<string> generateParenthesis(int n) {
-        generatePar(0,0,2*n,"");
-        return res;
+        vector<string>ans;
+        string s = "";
+        gen(0,0,s,ans,2*n);
+        return ans;
     }
 };
