@@ -20,6 +20,7 @@
 | [0054-spiral-matrix](https://github.com/gireesha44/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/gireesha44/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/gireesha44/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gireesha44/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/gireesha44/Leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gireesha44/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -209,6 +210,7 @@
 | [0048-rotate-image](https://github.com/gireesha44/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gireesha44/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/gireesha44/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gireesha44/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gireesha44/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -288,6 +290,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/gireesha44/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/gireesha44/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gireesha44/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/gireesha44/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/gireesha44/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/gireesha44/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gireesha44/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
