@@ -5,9 +5,7 @@ public:
         sort(arr.begin(),arr.end());
         set<vector<int>>st;
         for(int i=0;i<n;i++){
-            if(i>0 && arr[i-1]==arr[i])continue;
             for(int j=i+1;j<n;j++){
-                if(j>i+1 && arr[j-1]==arr[j])continue;
                 int left =j+1,right=n-1;
                 while(left<right){
                     long long sum = (long long)arr[i]+arr[j]+arr[left]+arr[right];
