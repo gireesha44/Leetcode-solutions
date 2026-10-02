@@ -16,6 +16,7 @@
 | [0042-trapping-rain-water](https://github.com/gireesha44/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/gireesha44/Leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/gireesha44/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gireesha44/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/gireesha44/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -205,6 +206,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gireesha44/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gireesha44/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/gireesha44/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -323,6 +325,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/gireesha44/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/gireesha44/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/gireesha44/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/gireesha44/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gireesha44/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
