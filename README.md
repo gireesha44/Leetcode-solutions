@@ -613,4 +613,8 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gireesha44/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gireesha44/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gireesha44/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
