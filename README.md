@@ -476,6 +476,7 @@
 | [0040-combination-sum-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/gireesha44/Leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/gireesha44/Leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/gireesha44/Leetcode-solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/gireesha44/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/gireesha44/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
