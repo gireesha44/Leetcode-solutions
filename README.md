@@ -123,6 +123,7 @@
 | [0455-assign-cookies](https://github.com/gireesha44/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/gireesha44/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/gireesha44/Leetcode-solutions/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gireesha44/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/gireesha44/Leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gireesha44/Leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gireesha44/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -184,6 +185,7 @@
 | [0897-increasing-order-search-tree](https://github.com/gireesha44/Leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/gireesha44/Leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/gireesha44/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gireesha44/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/gireesha44/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gireesha44/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gireesha44/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -244,6 +246,7 @@
 | [0678-valid-parenthesis-string](https://github.com/gireesha44/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/gireesha44/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/gireesha44/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gireesha44/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/gireesha44/Leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/gireesha44/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gireesha44/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -619,6 +622,7 @@
 | [0022-generate-parentheses](https://github.com/gireesha44/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/gireesha44/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/gireesha44/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gireesha44/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gireesha44/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gireesha44/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gireesha44/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
