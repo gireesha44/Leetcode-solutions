@@ -338,6 +338,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/gireesha44/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/gireesha44/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/gireesha44/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/gireesha44/Leetcode-solutions/tree/master/0050-powx-n) |
